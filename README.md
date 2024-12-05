@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: incorrect range checking. The Ada code in `bug.ada` contains a function `Check_Range` that attempts to determine if a number is within the range of 10 to 100. The main procedure then calls this function with a number outside of that range.  The `bugSolution.ada` file provides a corrected version.
